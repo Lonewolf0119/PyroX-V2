@@ -26,12 +26,12 @@
     },
     "OWNER_ID": {
        "description": "Add IDs of owners",
-       "value": "5443243540",
+       "value": "6211441287",
        "required": true
     },
     "GROUP_ID": {
        "description": "Add group ID where bot must be admin and userbot must be there.",
-       "value": "-1002119409366",
+       "value": "-1002006760029",
        "required": true
     },
     "DB_NAME": {
