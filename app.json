@@ -31,7 +31,7 @@
     },
     "GROUP_ID": {
        "description": "Add group ID where bot must be admin and userbot must be there.",
-       "value": "-1002006760029",
+       "value": "-1002052259061",
        "required": true
     },
     "DB_NAME": {
